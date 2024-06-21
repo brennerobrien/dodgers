@@ -1,0 +1,23 @@
+
+body {
+    background-color: lightblue;
+}
+.site-header{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+header.masthead {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    color: #0e0d0d;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;}
+    
+.text-center{
+align-content: center;
+}
+    
